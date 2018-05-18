@@ -1,0 +1,6 @@
+framework module OGBleSdk {
+  umbrella header "OGBleSdk.h"
+
+  export *
+  module * { export * }
+}
